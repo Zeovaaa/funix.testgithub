@@ -1,7 +1,9 @@
 # funix.testgithub
 A test repository when I'm learning DS in FUNiX.
-## Is this a list?
-<ul>
- <li>Yes</li>
- <li>No</li>
-</ul>
+## Is this a form?
+<form>
+ <input type="radio" id="yes">
+ <label for="yes">Yes</label><br>
+ <input type="radio" id="no">
+ <label for="no">No</label>
+</form>
